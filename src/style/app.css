@@ -1,0 +1,103 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+
+
+  body{
+      background-image: url("https://i.pinimg.com/originals/3f/59/fe/3f59fed13bfeef30d31384402ac7a919.gif");
+      background-repeat: no-repeat;
+      background-size: cover;
+      font-family: 'Lacquer';
+
+    }
+  
+
+    h1{
+        color: rgb(160, 52, 142);
+        margin-left: 430px;
+        margin-top: 100px;
+        font-size: 45px;
+    }
+
+
+    button{
+        font-family: 'Lacquer';
+        font-size: 50px;
+        box-sizing: inherit;
+        padding-left: 30px;
+        padding-top: 30px;
+        padding-right: 30px;
+        padding-bottom: 30px;
+        size: 100px;
+        margin-left: 280px;
+        margin-bottom:-200px;
+        font-size: 20px;
+        align-items: center;
+        border-radius: 50%;
+        color: rgb(212, 106, 205);
+        background-color: rgb(135, 233, 250);
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(201, 20, 207, 0.747);
+
+    }
+
+
+        button:hover {background-color: #eb99ee}
+
+button:active {
+  background-color: #853e8e;
+  box-shadow: 0 5px rgb(185, 103, 172);
+  transform: translateY(4px);
+}
+
+
+    h3{
+        color: rgb(22, 147, 219);
+        margin-left: 650px;
+        margin-top: 100px;
+        font-size: 35px;  
+    }
+
+
+    footer{
+       
+            color: rgb(126, 58, 114);
+            margin-left: 560px;
+            margin-top: 100px;
+            font-size: 30px;  
+       
+    }
+
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
