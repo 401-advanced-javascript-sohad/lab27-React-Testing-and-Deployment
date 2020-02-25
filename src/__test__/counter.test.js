@@ -37,8 +37,8 @@ describe("<Counter />", () => {
 
  
   it("renders correctly", () => {
-    // const tree = renderer.create(<Counter />).toJSON();
-    // expect(tree).toMatchSnapshot();
+    const tree = renderer.create(<Counter />).toJSON();
+    expect(tree).toMatchSnapshot();
   });
 
 });
