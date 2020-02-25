@@ -27,8 +27,8 @@ class Main extends React.Component {
     return (
       <section>
         <h3>{this.state.counter}</h3>
-        <button onClick={this.handleClickIncrement}>click for Increment</button>
-        <button onClick={this.handleClickDecrement}>click for Decrement</button>
+        <button id="clickTwo" onClick={this.handleClickIncrement}>click for Increment</button>
+        <button id="clickOne" onClick={this.handleClickDecrement}>click for Decrement</button>
        </section>
     )
   }
