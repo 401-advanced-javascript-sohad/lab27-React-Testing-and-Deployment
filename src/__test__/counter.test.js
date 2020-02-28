@@ -1,9 +1,9 @@
-// import React from 'react';
+import React from 'react';
 import Enzyme, { shallow, mount } from 'enzyme';
 import renderer from 'react-test-renderer';
 import Adapter from 'enzyme-adapter-react-16';
 Enzyme.configure({ adapter: new Adapter() });
-// import Counter from '../components/counter/main.js';
+import Counter from '../components/counter/main.js';
 
 
 describe('<Counter />', () => {
