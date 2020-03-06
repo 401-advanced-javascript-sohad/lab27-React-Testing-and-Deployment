@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Counter /> renders correctly 1`] = `
+<section>
+  <h3>
+    0
+  </h3>
+  <button
+    id="clickTwo"
+    onClick={[Function]}
+  >
+    click for Increment
+  </button>
+  <button
+    id="clickOne"
+    onClick={[Function]}
+  >
+    click for Decrement
+  </button>
+</section>
+`;

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lab27-React-Testing-and-Deployment/static/css/main.dfad0b11.chunk.css",
+    "main.js": "/lab27-React-Testing-and-Deployment/static/js/main.b44192bc.chunk.js",
+    "main.js.map": "/lab27-React-Testing-and-Deployment/static/js/main.b44192bc.chunk.js.map",
+    "runtime-main.js": "/lab27-React-Testing-and-Deployment/static/js/runtime-main.65d223ae.js",
+    "runtime-main.js.map": "/lab27-React-Testing-and-Deployment/static/js/runtime-main.65d223ae.js.map",
+    "static/js/2.14b22cba.chunk.js": "/lab27-React-Testing-and-Deployment/static/js/2.14b22cba.chunk.js",
+    "static/js/2.14b22cba.chunk.js.map": "/lab27-React-Testing-and-Deployment/static/js/2.14b22cba.chunk.js.map",
+    "index.html": "/lab27-React-Testing-and-Deployment/index.html",
+    "precache-manifest.e2be6c69de51cc7867c6cd25d9eaa68e.js": "/lab27-React-Testing-and-Deployment/precache-manifest.e2be6c69de51cc7867c6cd25d9eaa68e.js",
+    "service-worker.js": "/lab27-React-Testing-and-Deployment/service-worker.js",
+    "static/css/main.dfad0b11.chunk.css.map": "/lab27-React-Testing-and-Deployment/static/css/main.dfad0b11.chunk.css.map",
+    "static/js/2.14b22cba.chunk.js.LICENSE.txt": "/lab27-React-Testing-and-Deployment/static/js/2.14b22cba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65d223ae.js",
+    "static/js/2.14b22cba.chunk.js",
+    "static/css/main.dfad0b11.chunk.css",
+    "static/js/main.b44192bc.chunk.js"
+  ]
+}
